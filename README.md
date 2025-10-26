@@ -1,6 +1,7 @@
 API Automation Homework – User CRUD Operations:
 
 Overview:
+
 This project demonstrates API testing using RestAssured in Java with Maven and TestNG. It focuses on performing CRUD operations (Create, Read, Update, Delete) on the Petstore Swagger API (https://petstore.swagger.io/v2/user).
 
 Prerequisites:
