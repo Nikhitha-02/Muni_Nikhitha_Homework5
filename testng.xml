@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RestAssuredApi Suite" parallel="false">
+  <test name="UserCRUDTests">
+    <classes>
+      <class name="com.dataart.tests.CreateUserTest"/>
+      <class name="com.dataart.tests.GetUserTest"/>
+      <class name="com.dataart.tests.UpdateUserTest"/>
+      <class name="com.dataart.tests.DeleteUserTest"/>
+    </classes>
+  </test>
+</suite>
